@@ -18,6 +18,12 @@ Here are some ideas to get you started: -->
 <p><img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">&nbsp;<img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-FLUTTER-03dbfc?logo=flutter&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-DJANGO-092E20?logo=django&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-DART-945DD6?logo=dart&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fce803">&nbsp;<img src = "https://img.shields.io/badge/-JAVA-3776AB?logo=java&logoColor=fff">&nbsp;<img src = "https://img.shields.io/badge/-JavaScript-3776AB?logo=javascript&logoColor=fce803">&nbsp;<img src = "https://img.shields.io/badge/-REACT-000000?logo=react&logoColor=#1572B6">&nbsp;<img src = "https://img.shields.io/badge/-NODE Js.-3776AB?logo=nodedotjs&logoColor=ffffff">&nbsp;</p>
 <h3><b>Databases</b></h3>
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;</p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=SujeetMainali&count_private=true&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetMainali&show_icons=true&theme=radical)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=SujeetMainali&count_private=true&show_icons=true&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetMainali&show_icons=true&theme=radical) -->
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SujeetMainali&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SujeetMainali&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetMainali&layout=compact&theme=cobalt&hide_border=true" />
