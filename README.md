@@ -33,7 +33,11 @@ Here are some ideas to get you started: -->
 <img src = "https://img.shields.io/badge/-NODE Js.-3776AB?logo=nodedotjs&logoColor=ffffff">&nbsp;
 </p>
 <h3><b>Databases</b></h3>
-<p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp;</p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-161e26?style=for-the-badge&logo=mysql&logoColor=007acc" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp;
+</p>
 
 <h3><b>Versioning Tools</b></h3>
  <p><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Git-cb4b16?style=for-the-badge&logo=git&logoColor=white" /></p>
