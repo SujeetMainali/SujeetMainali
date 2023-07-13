@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>Welcome to my GitHub profile... It's me Sujeet Mainali</b>
+<b>Welcome to my GitHub profile... It's me Sujeet Mainali, a Student and a Developer</b>
 <!--**SujeetMainali/SujeetMainali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 </p>
 <h3><b>Databases</b></h3>
 <p>
-<img src="https://img.shields.io/badge/MySQL-007acc?style=for-the-badge&logo=mysql&logoColor=ffffff" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-007acc?style=for-the-badge&logo=mysql&logoColor=ffffff"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp;
 </p>
