@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 <a target = "_blank" href = "https://www.instagram.com/mainalisujeet/"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;
 <a target = "_blank" href = "https://twitter.com/MainaliSujeet"><img src = "https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff"></a>&nbsp;
 <a target = "_blank" href = "https://www.linkedin.com/in/sujeet-mainali-a72902225/"><img src = "https://img.shields.io/badge/-Linkedln-0A66C2?logo=linkedLn&logoColor=fff"></a>
-- <a href = "https://sujeetmainali.com.np">CLICK</a>&nbsp;To visit my website.
+- <a target="_blank" href = "https://sujeetmainali.com.np">CLICK</a>&nbsp;To visit my website.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <h3><b>Languages and Frameworks</b></h3>
